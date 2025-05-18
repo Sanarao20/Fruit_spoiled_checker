@@ -30,6 +30,7 @@ The accurate and timely detection of spoiled fruits and diseased leaves is diffi
 | Damage Visualization      | Displays percentage of affected leaf area     |
 
 # Result
-![Screenshot 2025-05-10 at 8 45 51 PM](https://github.com/user-attachments/assets/9d377b4d-e8d9-42a6-9e0c-0e363e3bdedb)
+
+![Screenshot 2025-05-18 at 11 05 09 PM](https://github.com/user-attachments/assets/4b98c697-cf4a-4453-9935-586000338dad)
 
 
