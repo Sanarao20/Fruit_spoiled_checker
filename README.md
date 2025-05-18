@@ -38,3 +38,11 @@ The accurate and timely detection of spoiled fruits and diseased leaves is diffi
 
 ![Screenshot 2025-05-18 at 11 09 38 PM](https://github.com/user-attachments/assets/0e773218-2f34-4e89-af54-194c24bafe89)
 
+# Demo Video 
+
+https://github.com/user-attachments/assets/9b8e9dec-d3c1-4684-8e66-51465075ab31
+
+
+
+
+The video used in the demo is https://youtu.be/bNZd1zJKF6w?si=2P5nmCN8blHjMWWo 
